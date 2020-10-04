@@ -6,7 +6,7 @@ Add more if-else statements to increase the number of notes you can play.
 
 pin 12 is the trig pin,
 pin 11 is echo,
-and pins 6,5, and 9 go to an RGB LED
+and pins 6,5, and 9 go to an RGB LED, and pin 8 is your passive buzzer.
 
 
 Requires the "pitches" library and the "HC-SR04" library to work. They can both be found in the elegoo super starter kit.
